@@ -21,3 +21,4 @@ https://github.com/teamDice/server
 
 ## Special Thanks
 Marty and Megan Nelson, Shannon Wolcott, Andrew Bodey, Andrew Potter, Ryan Manro, and everyone at Alchemy Code Lab!
+Hervé Marly for designing the game Skull and Roses, the inspiration and basis for our game.
